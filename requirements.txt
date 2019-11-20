@@ -1,0 +1,14 @@
+ipywidgets
+voila
+ipyvuetify
+voila-vuetify
+voila-material
+beautifulsoup4
+pandas>=0.25
+bokeh
+pandas-bokeh
+matplotlib
+pygal
+altair
+vega
+pandas-datareader
